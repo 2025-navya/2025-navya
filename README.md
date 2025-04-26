@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi there, I'm Navya! 👋
 
-<!--
-**2025-navya/2025-navya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an M.Tech student specializing in **Data Science**  
+💡 Passionate about solving real-world problems using **Machine Learning**, **Deep Learning**, and **Data Visualization**  
+🚀 Currently building:
+- 🏠 House Price Prediction App
+- ❤️ Heart Disease Detection Web App
+- 🧠 Brain Stroke Risk Analyzer
+- 🌾 Crop Recommendation System
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack
+- **Languages**: Python, SQL, HTML, CSS, JavaScript  
+- **Frameworks**: Flask, Bootstrap  
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly  
+- **Tools**: Git, GitHub, Jupyter Notebook, VS Code  
+
+---
+
+## 📊 GitHub Stats
+
+![Navya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2025-navya&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=2025-navya&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+- [LinkedIn]([https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/navya-boddepalli-350bb023b/))  
+- [GitHub](https://github.com/2025-navya)
+
+---
+
+Thanks for visiting! 😊
